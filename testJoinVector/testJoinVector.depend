@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545881201 source:g:\codeblocks_c++\rdfdatabasetestversion\testjoinvector\main.cpp
+	<iostream>
+	<time.h>
+	<vector>
+	<map>
+	<Windows.h>
+

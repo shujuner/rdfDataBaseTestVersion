@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1546223448 source:g:\codeblocks_c++\rdfdatabasetestversion\testvectorspeed\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	<Windows.h>
+	<time.h>
+
+1546221570 g:\codeblocks_c++\rdfdatabasetestversion\testvectorspeed\vector.h
+	<cstddef>
+	<cstring>
+	<utility>
+	<iterator>
+	<stdexcept>
+
